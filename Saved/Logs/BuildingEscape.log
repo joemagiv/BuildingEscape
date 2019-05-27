@@ -847,3 +847,135 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.27-02.52.19:830][  3]LogAssetRegistry: Asset discovery search completed in 177.3170 seconds
 [2019.05.27-02.52.19:832][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2019.05.27-02.52.19:832][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2019.05.27-04.45.52:655][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.46.29:595][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.46.58:650][510]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.27-04.46.59:102][511]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BuildingEscape
+[2019.05.27-04.46.59:102][511]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.05.27-04.46.59:102][511]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.05.27-04.46.59:102][511]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.05.27-04.46.59:102][511]LogTemp: BranchPath = WIN-O8VSF2LINF8/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = WIN-O8VSF2LINF8/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.05.27-04.46.59:102][511]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\mafia\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.05.27-04.47.34:459][535]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/BuildingEscape.BuildingEscapeGameMode'
+[2019.05.27-04.47.43:034][838]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.27-04.47.43:039][838]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.27-04.47.44:062][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2019.05.27-04.47.52:336][687]Cmd: TRANSACTION UNDO
+[2019.05.27-04.47.52:336][687]LogEditorTransaction: Undo Move Actors
+[2019.05.27-04.47.52:576][687]LogSlate: Took 0.035135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.27-04.48.01:804][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.48.10:062][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.48.13:544][696]LogSlate: Window 'New Level' being destroyed
+[2019.05.27-04.48.13:676][696]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.27-04.48.13:740][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.48.13:749][696]LightingResults: New page: Lighting Build
+[2019.05.27-04.48.13:750][696]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.05.27-04.48.13:918][696]MapCheck: New page: Map Check
+[2019.05.27-04.48.13:918][696]LightingResults: New page: Lighting Build
+[2019.05.27-04.48.14:424][696]LogAIModule: Creating AISystem for world Untitled_1
+[2019.05.27-04.48.14:459][696]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.27-04.48.14:484][696]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.27-04.48.14:485][696]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.263ms to complete.
+[2019.05.27-04.48.14:485][696]LogFileHelpers: Loading map 'Template_Default' took 0.919
+[2019.05.27-04.48.20:820][406]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.48.25:565][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.48.28:260][956]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.27-04.48.28:359][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.48.28:540][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.27-04.48.29:314][956]LogSavePackage: Moving '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/NewMap1A9EAEF7499A09E646EDCFA46736F916.tmp' to '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap.umap'
+[2019.05.27-04.48.29:380][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap_BuiltData.uasset" SILENT=true
+[2019.05.27-04.48.29:437][956]LogSavePackage: Moving '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/NewMap_BuiltDataD4D99E894B8C1D8D403030B66ABA82AB.tmp' to '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap_BuiltData.uasset'
+[2019.05.27-04.48.29:444][956]LogFileHelpers: Saving map 'NewMap' took 1.117
+[2019.05.27-04.48.29:445][956]Cmd: MAP LOAD FILE="../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.27-04.48.29:450][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.48.29:454][956]LightingResults: New page: Lighting Build
+[2019.05.27-04.48.29:455][956]LoadErrors: New page: Loading map: NewMap.umap
+[2019.05.27-04.48.29:457][956]MapCheck: New page: Map Check
+[2019.05.27-04.48.29:457][956]LightingResults: New page: Lighting Build
+[2019.05.27-04.48.29:499][956]LogAIModule: Creating AISystem for world NewMap
+[2019.05.27-04.48.29:568][956]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.27-04.48.29:610][956]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.27-04.48.29:611][956]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2019.05.27-04.48.29:611][956]LogFileHelpers: Loading map 'NewMap' took 0.167
+[2019.05.27-04.48.38:221][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.48.40:003][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.48.41:022][ 20]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.27-04.48.41:208][ 33]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BuildingEscape
+[2019.05.27-04.48.41:208][ 33]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.05.27-04.48.41:208][ 33]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.05.27-04.48.41:208][ 33]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.05.27-04.48.41:225][ 35]LogTemp: BranchPath = WIN-O8VSF2LINF8/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = WIN-O8VSF2LINF8/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.05.27-04.48.41:261][ 39]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\mafia\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.05.27-04.48.56:773][395]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.27-04.48.56:778][395]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.27-04.49.00:196][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.49.46:993][699]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2019.05.27-04.49.47:205][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.50.01:875][591]Cmd: POLY SELECT ADJACENT WALLS
+[2019.05.27-04.50.27:799][847]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.50.35:490][732]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:6292).
+[2019.05.27-04.50.57:350][667]LogActorFactory: Actor Factory created SM_Chair
+[2019.05.27-04.51.08:166][941]LogActorFactory: Actor Factory created SM_Chair
+[2019.05.27-04.51.09:238][ 56]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-04.51.33:272][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.27-04.51.34:654][983]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-04.52.01:388][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.52.01:554][212]LogActorFactory: Actor Factory created SM_TableRound
+[2019.05.27-04.52.04:792][572]LogActorFactory: Actor Factory created SM_TableRound
+[2019.05.27-04.52.06:169][729]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-04.52.25:046][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.52.25:301][916]LogActorFactory: Actor Factory created SM_PillarFrame300
+[2019.05.27-04.52.30:083][448]LogActorFactory: Actor Factory created SM_PillarFrame300
+[2019.05.27-04.52.36:947][236]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_PillarFrame300)
+[2019.05.27-04.52.37:288][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.52.41:889][721]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.27-04.52.42:686][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame300)
+[2019.05.27-04.52.43:424][884]Cmd: DUPLICATE
+[2019.05.27-04.52.43:425][884]Cmd: ACTOR DUPLICATE
+[2019.05.27-04.52.49:504][515]Cmd: DUPLICATE
+[2019.05.27-04.52.49:504][515]Cmd: ACTOR DUPLICATE
+[2019.05.27-04.53.07:076][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.53.07:256][567]LogActorFactory: Actor Factory created SM_CornerFrame
+[2019.05.27-04.53.09:431][813]LogActorFactory: Actor Factory created SM_CornerFrame
+[2019.05.27-04.53.10:826][971]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.27-04.53.15:992][565]Cmd: DELETE
+[2019.05.27-04.53.15:992][565]Cmd: ACTOR DELETE
+[2019.05.27-04.53.16:101][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.27-04.53.16:124][565]LogEditorActor: Deleted 1 Actors (0.131 secs)
+[2019.05.27-04.53.18:723][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.53.18:966][892]LogActorFactory: Actor Factory created SM_CornerFrame
+[2019.05.27-04.53.21:432][185]LogActorFactory: Actor Factory created SM_CornerFrame
+[2019.05.27-04.53.31:831][390]Cmd: DELETE
+[2019.05.27-04.53.31:831][390]Cmd: ACTOR DELETE
+[2019.05.27-04.53.31:833][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.27-04.53.31:853][390]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.05.27-04.53.39:420][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.53.48:257][238]Cmd: TRANSACTION UNDO
+[2019.05.27-04.53.48:257][238]LogEditorTransaction: Undo Create Actors
+[2019.05.27-04.53.49:213][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.53.54:046][910]Cmd: TRANSACTION UNDO
+[2019.05.27-04.53.54:046][910]LogEditorTransaction: Undo Create Actors
+[2019.05.27-04.53.57:203][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.54.02:297][840]Cmd: TRANSACTION UNDO
+[2019.05.27-04.54.02:297][840]LogEditorTransaction: Undo Create Actors
+[2019.05.27-04.54.15:082][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.54.17:662][611]Cmd: TRANSACTION UNDO
+[2019.05.27-04.54.17:662][611]LogEditorTransaction: Undo Create Actors
+[2019.05.27-04.54.19:866][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.54.23:484][246]Cmd: TRANSACTION UNDO
+[2019.05.27-04.54.23:484][246]LogEditorTransaction: Undo Create Actors
+[2019.05.27-04.54.26:343][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.54.37:113][751]LogActorFactory: Actor Factory created SM_Rock
+[2019.05.27-04.54.38:429][893]LogActorFactory: Actor Factory created SM_Rock
+[2019.05.27-04.54.48:968][ 89]Cmd: TRANSACTION UNDO
+[2019.05.27-04.54.48:968][ 89]LogEditorTransaction: Undo Move Actors
+[2019.05.27-04.55.54:582][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.56.14:815][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-04.56.28:501][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.56.32:307][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.57.04:422][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.57.06:110][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-04.57.06:116][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.27-04.57.06:281][555]LogSavePackage: Moving '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/NewMap5EE86CAE44876E434A1204A6C8F5931E.tmp' to '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap.umap'
+[2019.05.27-04.57.06:304][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap_BuiltData.uasset" SILENT=true
+[2019.05.27-04.57.06:327][555]LogSavePackage: Moving '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/NewMap_BuiltData1D2F47A647667C4ECB0F83B35AD10214.tmp' to '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap_BuiltData.uasset'
