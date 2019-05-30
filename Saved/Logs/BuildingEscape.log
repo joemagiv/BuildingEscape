@@ -979,3 +979,471 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.27-04.57.06:281][555]LogSavePackage: Moving '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/NewMap5EE86CAE44876E434A1204A6C8F5931E.tmp' to '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap.umap'
 [2019.05.27-04.57.06:304][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap_BuiltData.uasset" SILENT=true
 [2019.05.27-04.57.06:327][555]LogSavePackage: Moving '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/NewMap_BuiltData1D2F47A647667C4ECB0F83B35AD10214.tmp' to '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap_BuiltData.uasset'
+[2019.05.27-16.54.23:990][555]LogHttp: Warning: 000001B3AA6D0F40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.27-16.54.23:990][555]LogHttp: Warning: 000001B3AA6D0F40: libcurl info message cache 0 (Connection 372 seems to be dead!)
+[2019.05.27-16.54.23:990][555]LogHttp: Warning: 000001B3AA6D0F40: libcurl info message cache 1 (Closing connection 372)
+[2019.05.27-16.54.23:990][555]LogHttp: Warning: 000001B3AA6D0F40: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.05.27-16.54.23:990][555]LogHttp: Warning: 000001B3AA6D0F40: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.27-16.54.23:990][555]LogHttp: Warning: 000001B3AA6D0F40: libcurl info message cache 4 (Closing connection 373)
+[2019.05.27-16.54.24:323][556]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.27-20.33.17:365][841]LogHttp: Warning: 000001B3AA6D1E40: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 138, actual payload size: 138
+[2019.05.27-20.33.17:365][841]LogHttp: Warning: 000001B3AA6D1E40 Response Header Server: awselb/2.0
+[2019.05.27-20.33.17:365][841]LogHttp: Warning: 000001B3AA6D1E40 Response Header Date: Mon, 27 May 2019 20:33:15 GMT
+[2019.05.27-20.33.17:365][841]LogHttp: Warning: 000001B3AA6D1E40 Response Header Content-Type: text/html
+[2019.05.27-20.33.17:365][841]LogHttp: Warning: 000001B3AA6D1E40 Response Header Content-Length: 138
+[2019.05.27-20.33.17:365][841]LogHttp: Warning: 000001B3AA6D1E40 Response Header Connection: keep-alive
+[2019.05.28-17.32.16:998][852]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.28-17.32.16:998][852]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Connection 1040 seems to be dead!)
+[2019.05.28-17.32.16:998][852]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 1040)
+[2019.05.28-17.32.16:998][852]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.05.28-17.32.16:998][852]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.28-17.32.16:998][852]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 4 (Closing connection 1041)
+[2019.05.28-17.32.16:998][852]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-04.51.35:978][900]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-04.51.35:978][900]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b3a4f8bfa0 [can pipeline])
+[2019.05.30-04.51.35:978][900]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Re-using existing connection! (#1997) with host datarouter.ol.epicgames.com)
+[2019.05.30-04.51.35:978][900]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.72.40.152) port 443 (#1997))
+[2019.05.30-04.51.35:978][900]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 3 (upload completely sent off: 742 out of 742 bytes)
+[2019.05.30-04.51.35:978][900]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.05.30-04.51.35:978][900]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.05.30-04.51.35:978][900]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 6 (Closing connection 1997)
+[2019.05.30-04.51.35:978][900]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.05.30-04.51.35:978][900]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-04.51.35:978][900]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 9 (Closing connection 1998)
+[2019.05.30-04.51.35:978][900]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-04.53.36:407][258]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-04.53.36:407][258]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-04.53.36:407][258]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 1999)
+[2019.05.30-04.53.36:407][258]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-04.55.37:037][617]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-04.55.37:037][617]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-04.55.37:037][617]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2000)
+[2019.05.30-04.55.37:372][618]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-04.57.37:729][976]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-04.57.37:729][976]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-04.57.37:729][976]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2001)
+[2019.05.30-04.57.37:729][976]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-04.59.38:367][335]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-04.59.38:367][335]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-04.59.38:367][335]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2002)
+[2019.05.30-04.59.38:700][336]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.01.39:354][695]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.01.39:354][695]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.01.39:354][695]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2003)
+[2019.05.30-05.01.39:690][696]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.03.40:318][ 55]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.03.40:318][ 55]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.03.40:318][ 55]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2004)
+[2019.05.30-05.03.40:655][ 56]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.05.41:013][414]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.05.41:013][414]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.05.41:013][414]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2005)
+[2019.05.30-05.05.41:013][414]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.07.41:612][773]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.07.41:612][773]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.07.41:612][773]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2006)
+[2019.05.30-05.07.41:950][774]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.09.42:534][133]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.09.42:534][133]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.09.42:534][133]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2007)
+[2019.05.30-05.09.42:872][134]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.11.43:438][493]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.11.43:438][493]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.11.43:438][493]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2008)
+[2019.05.30-05.11.43:774][494]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.13.44:112][852]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.13.44:112][852]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.13.44:112][852]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2009)
+[2019.05.30-05.13.44:112][852]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.15.44:701][211]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.15.44:701][211]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.15.44:701][211]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2010)
+[2019.05.30-05.15.45:036][212]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.17.45:671][571]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.17.45:671][571]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.17.45:671][571]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2011)
+[2019.05.30-05.17.46:004][572]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.19.46:499][931]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.19.46:499][931]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.19.46:499][931]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2012)
+[2019.05.30-05.19.46:837][932]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.21.47:338][291]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.21.47:338][291]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.21.47:338][291]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2013)
+[2019.05.30-05.21.47:674][292]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.23.48:212][651]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.23.48:212][651]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.23.48:212][651]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2014)
+[2019.05.30-05.23.48:549][652]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.25.48:952][ 11]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.25.48:952][ 11]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.25.48:952][ 11]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2015)
+[2019.05.30-05.25.49:289][ 12]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.27.49:841][371]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.27.49:841][371]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.27.49:841][371]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2016)
+[2019.05.30-05.27.50:173][372]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.29.50:721][731]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.29.50:721][731]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.29.50:721][731]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2017)
+[2019.05.30-05.29.51:057][732]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.32.02:442][123]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.32.02:442][123]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.32.02:442][123]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2018)
+[2019.05.30-05.32.02:778][124]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.34.03:324][483]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.34.03:324][483]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.34.03:324][483]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2019)
+[2019.05.30-05.34.03:657][484]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-05.36.03:999][842]LogHttp: Warning: 000001B3AA6D0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.30-05.36.03:999][842]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.30-05.36.03:999][842]LogHttp: Warning: 000001B3AA6D0400: libcurl info message cache 1 (Closing connection 2020)
+[2019.05.30-05.36.03:999][842]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6F2000E-4E5E-62EB-B17B-3A88317E9942%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=4a43a57840e6ac6e053840ac8e548e9d%7Cbf1c5ba47ef24604acef11bb2acceb2b%7C555d65a7-46ae-44c8-9a6a-fb43ee883dd6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.30-06.38.40:780][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.30-06.38.41:305][862]LogSavePackage: Moving '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/NewMap_Auto1F0C73E1A4695BDB8879FD0A6214F034B.tmp' to '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2019.05.30-06.38.41:361][862]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.807
+[2019.05.30-06.38.41:361][862]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.807
+[2019.05.30-06.38.56:075][907]LogSlate: Took 0.014490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.30-06.40.19:639][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-06.40.23:449][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-06.40.23:619][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-06.41.31:238][980]LogSlate: Window 'Class Viewer' being destroyed
+[2019.05.30-06.41.31:242][980]LogSlate: Window 'Class Viewer' being destroyed
+[2019.05.30-06.41.33:226][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2019.05.30-06.41.35:541][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
+[2019.05.30-06.41.36:320][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2019.05.30-06.41.40:881][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.30-06.42.02:471][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2019.05.30-06.42.10:721][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-06.42.12:193][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-06.42.12:230][859]LogSlate: Took 0.014021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.30-06.42.32:210][859]LogVSAccessor: Warning: Cannot add source files as we failed to find 'C:/Users/mafia/Documents/Unreal Projects/BuildingEscape/Source/BuildingEscape/BuildingEscape.Build.cs' in the solution
+[2019.05.30-06.42.32:211][859]Running C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/mafia/Documents/Unreal Projects/BuildingEscape/BuildingEscape.uproject" -game -rocket -progress
+[2019.05.30-06.42.33:659][859]Discovering modules, targets and source code for project...
+[2019.05.30-06.42.40:096][859]Binding IntelliSense data...
+[2019.05.30-06.42.43:722][859]Binding IntelliSense data... 100%
+[2019.05.30-06.42.43:722][859]Writing project files...
+[2019.05.30-06.42.47:851][859]Writing project files... 100%
+[2019.05.30-06.42.48:268][859]Candidate modules for hot reload:
+[2019.05.30-06.42.48:268][859]  BuildingEscape
+[2019.05.30-06.42.48:290][859]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,4341 Win64 Development -TargetType=Editor -Project="../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/BuildingEscape.uproject" -canskiplink "C:/Users/mafia/Documents/Unreal Projects/BuildingEscape/BuildingEscape.uproject" ]
+[2019.05.30-06.47.32:876][859]CompilerResultsLog: New page: Compilation - May 29, 2019, 4:47:32 PM
+[2019.05.30-06.47.32:885][859]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2019.05.30-06.47.32:885][859]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\mafia\Documents\Unreal Projects\BuildingEscape).
+[2019.05.30-06.47.32:885][859]CompilerResultsLog: Creating makefile for hot reloading BuildingEscapeEditor (no existing makefile)
+[2019.05.30-06.47.32:886][859]CompilerResultsLog: Compiling game modules for hot reload
+[2019.05.30-06.47.32:886][859]CompilerResultsLog: Using Visual Studio 2017 14.20.27508 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.20.27508) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.05.30-06.47.32:886][859]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.05.30-06.47.32:886][859]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\mafia\Documents\Unreal Projects\BuildingEscape\BuildingEscape.uproject" "C:\Users\mafia\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.05.30-06.47.32:886][859]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 12.893957 seconds
+[2019.05.30-06.47.32:886][859]CompilerResultsLog: Building 8 actions with 4 processes...
+[2019.05.30-06.47.32:886][859]CompilerResultsLog:   [1/8] BuildingEscape.init.gen.cpp
+[2019.05.30-06.47.32:886][859]CompilerResultsLog:   [2/8] BuildingEscape.cpp
+[2019.05.30-06.47.32:886][859]CompilerResultsLog:   [3/8] PositionReport.cpp
+[2019.05.30-06.47.32:886][859]CompilerResultsLog:   [4/8] BuildingEscapeGameModeBase.cpp
+[2019.05.30-06.47.32:886][859]CompilerResultsLog:   [5/8] PositionReport.gen.cpp
+[2019.05.30-06.47.32:886][859]CompilerResultsLog:   [6/8] BuildingEscapeGameModeBase.gen.cpp
+[2019.05.30-06.47.32:886][859]CompilerResultsLog:   [7/8] UE4Editor-BuildingEscape-4341.lib
+[2019.05.30-06.47.32:886][859]CompilerResultsLog:      Creating library C:\Users\mafia\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4341.lib and object C:\Users\mafia\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4341.exp
+[2019.05.30-06.47.32:886][859]CompilerResultsLog:   [8/8] UE4Editor-BuildingEscape-4341.dll
+[2019.05.30-06.47.32:886][859]CompilerResultsLog:      Creating library C:\Users\mafia\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4341.suppressed.lib and object C:\Users\mafia\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-4341.suppressed.exp
+[2019.05.30-06.47.32:886][859]CompilerResultsLog: Total build time: 284.04 seconds (Parallel executor: 142.37 seconds)
+[2019.05.30-06.47.32:896][859]LogMainFrame: MainFrame: Module compiling took 284.747 seconds
+[2019.05.30-06.47.32:966][859]LogClass: Could not find existing class PositionReport in package /Script/BuildingEscape for HotReload, assuming new class
+[2019.05.30-06.47.32:970][859]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0014 seconds. Added 2 classes and 2 folders.
+[2019.05.30-06.47.32:972][859]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.05.30-06.47.33:711][859]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2654 classes and 624 folders.
+[2019.05.30-06.47.33:743][859]Display: HotReload took 285.7s.
+[2019.05.30-06.47.33:745][859]Warning: HotReload operation took 285.7s.
+[2019.05.30-06.47.34:223][859]LogVSAccessor: Warning: Couldn't open file 'C:/Users/mafia/Documents/Unreal Projects/BuildingEscape/Source/BuildingEscape/PositionReport.h'.
+[2019.05.30-06.47.34:224][859]LogVSAccessor: Warning: Couldn't open file 'C:/Users/mafia/Documents/Unreal Projects/BuildingEscape/Source/BuildingEscape/PositionReport.cpp'.
+[2019.05.30-06.47.34:230][859]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.05.30-06.47.34:238][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:238][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:238][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:238][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:238][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:239][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:239][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:239][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:240][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:240][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:240][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:240][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:240][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:241][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:241][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:241][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:241][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:242][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:242][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:242][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:242][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:243][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:243][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:243][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:243][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:243][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:244][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:244][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:244][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:244][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:245][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:245][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:245][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:245][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:246][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:246][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:246][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:246][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:247][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:247][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:247][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:247][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:248][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:248][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:248][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:248][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:248][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:249][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:249][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:249][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:249][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:250][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:250][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:250][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:250][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:250][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:251][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:251][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:251][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:251][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:252][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:252][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:252][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:252][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:253][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:253][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:253][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:253][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:253][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:254][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:254][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:254][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:254][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:255][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:255][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:255][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:255][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:255][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:256][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:256][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:256][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:256][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:257][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:257][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:257][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:257][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:258][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:268][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:268][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:269][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:269][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:269][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:270][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:270][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:277][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:286][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:289][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:290][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:290][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:291][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:292][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:292][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:293][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:293][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:294][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:295][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:312][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:312][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:312][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:313][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:314][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:318][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:328][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:349][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:350][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:350][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:350][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:350][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:353][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:353][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:368][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:387][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:389][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:401][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:423][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:423][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:423][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:423][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:437][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:442][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:444][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:449][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:449][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:449][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:449][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:449][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:450][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:450][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:450][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:450][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:451][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:451][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:451][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:451][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:452][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:452][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:452][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:452][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:452][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:453][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:453][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:453][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:453][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:454][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:454][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:454][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:454][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:455][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:455][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:455][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:455][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:455][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:456][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:456][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:456][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:456][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:457][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:457][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:457][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:457][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:458][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:458][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:458][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:458][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:459][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:459][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:459][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:459][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:459][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:460][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:460][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:460][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:460][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:461][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:461][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:461][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:461][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:462][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:462][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:462][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:462][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:462][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:463][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:463][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:463][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:463][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:464][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:464][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:464][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:464][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:464][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:465][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:465][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:465][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:465][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:466][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:466][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:466][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:466][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:467][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:467][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:467][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:467][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:468][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:468][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:468][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:468][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:469][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:478][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:478][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:478][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:478][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:479][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:479][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:479][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:486][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:494][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:496][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:498][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:498][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:498][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:499][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:500][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:501][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:501][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:501][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:502][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:518][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:518][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:518][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:519][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:520][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:524][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:536][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:560][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:561][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:561][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:561][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:561][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:564][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:564][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.34:581][859]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.30-06.47.35:344][859]LogSlate: Window 'Add C++ Component' being destroyed
+[2019.05.30-06.47.35:410][859]LogHotReload: New module detected: UE4Editor-BuildingEscape-4341.dll
+[2019.05.30-06.47.35:699][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-06.47.35:805][860]LogHotReload: Starting Hot-Reload from IDE
+[2019.05.30-06.47.35:840][860]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2019.05.30-06.47.35:842][860]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.05.30-06.47.35:871][860]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2654 classes and 624 folders.
+[2019.05.30-06.47.35:877][860]Display: HotReload took  0.1s.
+[2019.05.30-06.47.35:885][860]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.30-06.47.35:885][860]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.30-06.47.35:885][860]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.30-06.47.35:885][860]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.30-06.47.35:885][860]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.30-06.48.14:289][974]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (38.404 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.30-06.49.15:002][199]LogAssetEditorManager: Opening Asset editor for Class /Script/BuildingEscape.PositionReport
+[2019.05.30-06.50.07:924][964]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/mafia/Documents/Unreal Projects/BuildingEscape/Source/BuildingEscape/PositionReport.h'
+[2019.05.30-06.50.07:930][964]LogVSAccessor: Warning: Couldn't open file 'C:/Users/mafia/Documents/Unreal Projects/BuildingEscape/Source/BuildingEscape/PositionReport.cpp'.
+[2019.05.30-06.54.05:717][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.30-06.54.06:770][668]LogSavePackage: Moving '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/NewMap_Auto25404945D4D907105978B9AA289C7316A.tmp' to '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2019.05.30-06.54.06:791][668]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 1.098
+[2019.05.30-06.54.06:793][668]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.098
+[2019.05.30-06.54.37:805][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-06.54.40:580][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-06.54.44:821][473]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.30-06.54.45:411][476]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BuildingEscape
+[2019.05.30-06.54.45:411][476]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.05.30-06.54.45:411][476]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.05.30-06.54.45:411][476]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.05.30-06.54.45:412][476]LogTemp: BranchPath = WIN-O8VSF2LINF8/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = WIN-O8VSF2LINF8/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.05.30-06.54.45:412][476]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\mafia\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.05.30-06.55.38:462][232]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.30-06.55.38:466][232]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.30-06.57.07:179][771]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-06.57.09:464][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-06.57.09:470][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.30-06.57.09:931][ 35]LogSavePackage: Moving '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/NewMapD0672EC746B2F72956D70096D6FF83B2.tmp' to '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap.umap'
+[2019.05.30-06.57.10:023][ 35]LogFileHelpers: Saving map 'NewMap' took 0.554

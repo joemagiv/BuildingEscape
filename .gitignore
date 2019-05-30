@@ -10,3 +10,6 @@ Binaries/
 BuildingEscape.VC.VC.opendb
 .vs/BuildingEscape/v15/Solution.VC.db-shm
 .vs/BuildingEscape/v15/Solution.VC.db-wal
+*.ipch
+*.suo
+*.opendb
