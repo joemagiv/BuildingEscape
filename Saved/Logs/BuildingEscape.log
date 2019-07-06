@@ -2416,3 +2416,744 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.06-22.09.17:838][816]LogSavePackage: Moving '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/NewMap89BFF72241BFD861B4C8D39C14A9F846.tmp' to '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap.umap'
 [2019.07.06-22.09.17:894][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap_BuiltData.uasset" SILENT=true
 [2019.07.06-22.09.17:976][816]LogSavePackage: Moving '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Saved/NewMap_BuiltData2843022541C34F20BD77A99B468AA0B8.tmp' to '../../../../../../Users/mafia/Documents/Unreal Projects/BuildingEscape/Content/NewMap_BuiltData.uasset'
+[2019.07.06-23.45.48:767][655]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BuildingEscape
+[2019.07.06-23.45.48:768][655]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.07.06-23.45.48:768][655]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.07.06-23.45.48:768][655]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.07.06-23.45.48:768][655]LogTemp: BranchPath = WIN-O8VSF2LINF8/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = WIN-O8VSF2LINF8/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.07.06-23.45.48:768][655]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\mafia\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.07.06-23.45.48:768][655]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.07.06-23.56.19:343][124]LogHotReload: New module detected: UE4Editor-BuildingEscape-3419.dll
+[2019.07.06-23.56.20:718][129]LogHotReload: Starting Hot-Reload from IDE
+[2019.07.06-23.56.20:849][129]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2019.07.06-23.56.20:855][129]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2019.07.06-23.56.20:954][129]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0010 seconds. Added 3 classes and 2 folders.
+[2019.07.06-23.56.20:957][129]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.07.06-23.56.21:033][129]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 2655 classes and 624 folders.
+[2019.07.06-23.56.21:037][129]Display: HotReload took  0.3s.
+[2019.07.06-23.56.33:977][325]LogSlate: Window 'Project Settings' being destroyed
+[2019.07.06-23.56.33:982][325]LogSlate: Window 'Project Settings' being destroyed
+[2019.07.06-23.56.36:353][578]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.06-23.56.36:372][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.06-23.56.36:373][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.06-23.56.36:373][578]PIE: New page: PIE session: NewMap (Jul 6, 2019, 9:56:36 AM)
+[2019.07.06-23.56.36:374][578]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.07.06-23.56.36:382][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007900s)
+[2019.07.06-23.56.36:383][578]LogAIModule: Creating AISystem for world NewMap
+[2019.07.06-23.56.36:384][578]LogPlayLevel: PIE: World Init took: (0.001693s)
+[2019.07.06-23.56.36:384][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.010420s)
+[2019.07.06-23.56.36:462][578]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.06-23.56.36:486][578]LogInit: FAudioDevice initialized.
+[2019.07.06-23.56.36:519][578]LogLoad: Game class is 'GameMode'
+[2019.07.06-23.56.36:522][578]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2019.07.06-16.56.36
+[2019.07.06-23.56.36:522][578]LogWorld: Bringing up level for play took: 0.002135
+[2019.07.06-23.56.36:550][578]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.06-23.56.36:551][578]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.06-23.56.36:554][578]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.06-23.56.36:576][578]LogTemp: Warning: SM_Chair_2 is at X=-80.000 Y=50.000 Z=20.000
+[2019.07.06-23.56.36:576][578]LogTemp: Warning: SM_TableRound_test is at X=-30.000 Y=-30.000 Z=20.000
+[2019.07.06-23.56.36:577][578]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.06-23.56.36:577][578]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.427
+[2019.07.06-23.56.36:577][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.06-23.56.44:252][487]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:252][487]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:260][488]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:260][488]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:269][489]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:269][489]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:278][490]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:279][490]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:287][491]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:287][491]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:295][492]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:295][492]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:303][493]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:303][493]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:312][494]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:312][494]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:320][495]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:320][495]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:328][496]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:328][496]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:336][497]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:337][497]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:345][498]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:345][498]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:353][499]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:354][499]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:362][500]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:362][500]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:370][501]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:370][501]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:378][502]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:378][502]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:386][503]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:386][503]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:394][504]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:394][504]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:402][505]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:403][505]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:411][506]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:411][506]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:419][507]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:419][507]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:427][508]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:427][508]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:436][509]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:436][509]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:444][510]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:444][510]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:452][511]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:453][511]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:460][512]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:461][512]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:469][513]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:469][513]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:477][514]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:477][514]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:485][515]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:486][515]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:494][516]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:494][516]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:502][517]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:502][517]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:510][518]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:511][518]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:519][519]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:519][519]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:527][520]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:527][520]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:535][521]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:536][521]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:544][522]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:544][522]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:552][523]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:552][523]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:561][524]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:561][524]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:569][525]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:569][525]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:577][526]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:577][526]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:586][527]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:586][527]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:594][528]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:594][528]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:602][529]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:603][529]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:611][530]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:611][530]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:619][531]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:620][531]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:627][532]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:628][532]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:637][533]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:637][533]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:645][534]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:645][534]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:655][535]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:656][535]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:664][536]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:664][536]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:674][537]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:674][537]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:683][538]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:683][538]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:691][539]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:691][539]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:700][540]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:701][540]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:708][541]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:708][541]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:716][542]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:717][542]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:724][543]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:724][543]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:733][544]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:733][544]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:741][545]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:741][545]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:750][546]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:751][546]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:758][547]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:758][547]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:769][548]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:769][548]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:777][549]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:778][549]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:787][550]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:787][550]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:795][551]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:795][551]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:805][552]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:806][552]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:814][553]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:814][553]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:824][554]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:824][554]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:833][555]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:833][555]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:841][556]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:841][556]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:850][557]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:850][557]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:858][558]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:858][558]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:867][559]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:867][559]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:874][560]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:875][560]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:883][561]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:883][561]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:891][562]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:891][562]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:900][563]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:900][563]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:908][564]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:908][564]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:917][565]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:917][565]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:925][566]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:925][566]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:933][567]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:933][567]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:942][568]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:942][568]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:951][569]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:951][569]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:959][570]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:959][570]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:968][571]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:969][571]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:976][572]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:976][572]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:985][573]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:985][573]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:992][574]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.44:992][574]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:001][575]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:001][575]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:009][576]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:010][576]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:017][577]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:018][577]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:026][578]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:026][578]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:034][579]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:035][579]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:043][580]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:043][580]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:052][581]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:052][581]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:060][582]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:060][582]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:068][583]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:068][583]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:077][584]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:077][584]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:085][585]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:086][585]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:093][586]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:094][586]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:102][587]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:102][587]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:110][588]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:110][588]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:119][589]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:119][589]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:127][590]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:127][590]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:135][591]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:135][591]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:143][592]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:144][592]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:152][593]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:152][593]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:160][594]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:160][594]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:168][595]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:169][595]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:177][596]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:177][596]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:185][597]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:186][597]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:193][598]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:194][598]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:202][599]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:203][599]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:210][600]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:210][600]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:219][601]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:219][601]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:227][602]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:227][602]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:235][603]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:236][603]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:244][604]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:244][604]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:252][605]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:252][605]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:260][606]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:261][606]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:270][607]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:270][607]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:278][608]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:278][608]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:288][609]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:288][609]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:297][610]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:297][610]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:305][611]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:306][611]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:315][612]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:315][612]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:324][613]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:324][613]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:333][614]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:333][614]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:343][615]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:343][615]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:352][616]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:352][616]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:360][617]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:360][617]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:368][618]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:368][618]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:376][619]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:377][619]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:385][620]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:385][620]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:393][621]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:393][621]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:401][622]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:402][622]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:410][623]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:410][623]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:418][624]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:419][624]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:426][625]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:427][625]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:435][626]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:435][626]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:443][627]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:443][627]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:451][628]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:452][628]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:460][629]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:460][629]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:468][630]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:468][630]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:476][631]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:477][631]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:485][632]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:485][632]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:493][633]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:493][633]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:502][634]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:502][634]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:510][635]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:510][635]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:518][636]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:519][636]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:526][637]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:527][637]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:535][638]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:535][638]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:543][639]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:543][639]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:552][640]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:552][640]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:560][641]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:560][641]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:568][642]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:568][642]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:577][643]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:577][643]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:585][644]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:585][644]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:593][645]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:593][645]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:602][646]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:602][646]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:610][647]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:610][647]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:618][648]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:619][648]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:627][649]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:627][649]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:635][650]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:636][650]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:644][651]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:644][651]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:652][652]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:652][652]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:659][653]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:659][653]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:668][654]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:668][654]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:676][655]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:677][655]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:686][656]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.45:686][656]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.46:730][779]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.06-23.56.46:753][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-23.56.46:789][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.06-23.56.46:790][779]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.06-23.56.46:813][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-23.56.46:847][780]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.07.06-23.56.48:254][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-23.56.48:354][953]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.06-23.56.48:369][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.06-23.56.48:370][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.06-23.56.48:370][953]PIE: New page: PIE session: NewMap (Jul 6, 2019, 9:56:48 AM)
+[2019.07.06-23.56.48:370][953]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.07.06-23.56.48:375][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004665s)
+[2019.07.06-23.56.48:376][953]LogAIModule: Creating AISystem for world NewMap
+[2019.07.06-23.56.48:376][953]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2019.07.06-23.56.48:376][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.006112s)
+[2019.07.06-23.56.48:453][953]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.06-23.56.48:473][953]LogInit: FAudioDevice initialized.
+[2019.07.06-23.56.48:507][953]LogLoad: Game class is 'GameMode'
+[2019.07.06-23.56.48:509][953]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2019.07.06-16.56.48
+[2019.07.06-23.56.48:510][953]LogWorld: Bringing up level for play took: 0.001556
+[2019.07.06-23.56.48:523][953]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.06-23.56.48:523][953]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.06-23.56.48:523][953]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.06-23.56.48:524][953]LogTemp: Warning: SM_Chair_2 is at X=-80.000 Y=50.000 Z=20.000
+[2019.07.06-23.56.48:524][953]LogTemp: Warning: SM_TableRound_test is at X=-30.000 Y=-30.000 Z=20.000
+[2019.07.06-23.56.48:524][953]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.06-23.56.48:524][953]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.479
+[2019.07.06-23.56.48:525][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.06-23.56.50:943][231]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.50:944][231]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.50:952][232]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.50:953][232]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.50:961][233]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.50:961][233]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.50:970][234]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.50:970][234]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.50:978][235]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.50:978][235]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.50:988][236]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.50:989][236]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.50:997][237]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.50:997][237]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:005][238]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:006][238]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:014][239]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:014][239]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:024][240]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:024][240]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:032][241]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:032][241]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:040][242]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:041][242]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:049][243]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:049][243]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:057][244]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:057][244]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:065][245]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:066][245]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:074][246]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:074][246]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:085][247]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:086][247]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:093][248]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:094][248]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:102][249]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:102][249]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:110][250]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:110][250]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:119][251]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:119][251]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:127][252]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:127][252]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:135][253]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:136][253]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:144][254]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:144][254]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:158][255]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:159][255]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:172][256]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:172][256]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:179][257]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:180][257]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:191][258]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:191][258]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:200][259]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:200][259]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:208][260]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:208][260]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:218][261]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:218][261]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:224][262]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:224][262]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:233][263]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:234][263]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:242][264]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:242][264]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:250][265]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:251][265]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:258][266]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:259][266]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:268][267]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:268][267]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:276][268]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:276][268]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:285][269]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:285][269]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:294][270]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:294][270]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:302][271]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:302][271]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:311][272]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:311][272]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:319][273]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:319][273]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:327][274]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:328][274]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:335][275]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:336][275]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:344][276]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:344][276]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:353][277]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:354][277]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:362][278]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:362][278]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:370][279]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:370][279]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:378][280]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:379][280]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:387][281]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:387][281]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:395][282]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:395][282]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:403][283]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:404][283]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:412][284]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:412][284]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:420][285]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:420][285]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:428][286]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:429][286]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:437][287]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:437][287]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:445][288]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:445][288]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:453][289]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:454][289]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:462][290]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:462][290]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:470][291]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:470][291]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:479][292]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:479][292]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:487][293]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:488][293]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:495][294]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:496][294]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:504][295]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:504][295]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:512][296]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:512][296]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:520][297]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:521][297]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:529][298]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:529][298]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:537][299]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:538][299]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:545][300]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:546][300]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:554][301]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:554][301]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:562][302]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:562][302]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:570][303]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:571][303]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:579][304]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:579][304]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:587][305]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:588][305]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:595][306]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:596][306]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:604][307]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:604][307]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:612][308]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:612][308]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:620][309]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:621][309]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:629][310]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:629][310]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:637][311]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:638][311]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:646][312]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:646][312]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:654][313]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:654][313]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:662][314]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:662][314]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:671][315]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:671][315]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:678][316]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:679][316]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:688][317]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:688][317]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:696][318]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:696][318]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:704][319]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:704][319]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:712][320]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:713][320]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:721][321]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:721][321]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:729][322]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:730][322]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:738][323]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:738][323]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:746][324]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:746][324]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:754][325]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:755][325]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:763][326]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:763][326]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:771][327]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:771][327]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:780][328]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:780][328]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:788][329]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:788][329]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:797][330]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:797][330]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:809][331]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:809][331]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:818][332]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:818][332]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:826][333]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:827][333]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:835][334]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:835][334]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:843][335]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:843][335]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:851][336]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:852][336]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:859][337]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:860][337]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:868][338]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:868][338]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:876][339]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:877][339]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:885][340]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:885][340]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:893][341]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:893][341]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:901][342]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:902][342]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:910][343]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:910][343]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:919][344]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:919][344]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:927][345]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:927][345]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:935][346]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:936][346]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:943][347]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:944][347]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:952][348]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:952][348]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:960][349]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:960][349]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:969][350]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:969][350]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:977][351]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:977][351]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:986][352]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:986][352]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:994][353]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.51:994][353]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.52:002][354]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.52:002][354]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.52:010][355]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.52:011][355]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.52:021][356]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.52:021][356]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.52:029][357]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.52:030][357]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:027][472]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:027][472]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:035][473]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:036][473]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:044][474]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:044][474]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:053][475]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:053][475]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:062][476]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:062][476]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:071][477]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:071][477]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:079][478]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:079][478]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:087][479]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:087][479]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:096][480]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:096][480]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:105][481]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:105][481]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:113][482]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:113][482]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:123][483]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:123][483]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:134][484]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:134][484]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:141][485]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:142][485]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:150][486]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:150][486]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:158][487]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:158][487]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:167][488]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:167][488]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:176][489]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:176][489]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:185][490]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:185][490]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:194][491]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:194][491]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:203][492]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:203][492]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:212][493]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:212][493]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:221][494]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:221][494]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:230][495]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:230][495]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:239][496]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.53:239][496]LogTemp: Warning: Door Rotation is at P=0.000000 Y=-160.000000 R=0.000000
+[2019.07.06-23.56.57:714][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.06-23.56.57:715][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-23.56.57:751][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.06-23.56.57:752][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.06-23.56.57:773][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-23.56.57:831][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.07.06-23.57.05:038][874]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.06-23.57.31:254][110]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.06-23.57.31:271][110]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.06-23.57.31:272][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.06-23.57.31:272][110]PIE: New page: PIE session: NewMap (Jul 6, 2019, 9:57:31 AM)
+[2019.07.06-23.57.31:272][110]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.07.06-23.57.31:277][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004731s)
+[2019.07.06-23.57.31:278][110]LogAIModule: Creating AISystem for world NewMap
+[2019.07.06-23.57.31:278][110]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2019.07.06-23.57.31:278][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.006174s)
+[2019.07.06-23.57.31:355][110]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.06-23.57.31:375][110]LogInit: FAudioDevice initialized.
+[2019.07.06-23.57.31:411][110]LogLoad: Game class is 'GameMode'
+[2019.07.06-23.57.31:413][110]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2019.07.06-16.57.31
+[2019.07.06-23.57.31:414][110]LogWorld: Bringing up level for play took: 0.001707
+[2019.07.06-23.57.31:427][110]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.06-23.57.31:427][110]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.06-23.57.31:427][110]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.06-23.57.31:428][110]LogTemp: Warning: SM_Chair_2 is at X=-80.000 Y=50.000 Z=20.000
+[2019.07.06-23.57.31:428][110]LogTemp: Warning: SM_TableRound_test is at X=-30.000 Y=-30.000 Z=20.000
+[2019.07.06-23.57.31:445][110]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.06-23.57.31:445][110]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.441
+[2019.07.06-23.57.31:445][110]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
